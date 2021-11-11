@@ -10,4 +10,37 @@
     801
     </Shipmethod>
   </Orderinfo>
+  <Orderinfo>
+    <Name>
+    Franklin D. Roosevelt
+    </Name>
+    <Ordernumber>
+    12346
+    </Ordernumber>
+    <Shipmethod>
+    821
+    </Shipmethod>
+  </Orderinfo>
+  <Orderinfo>
+    <Name>
+    Paul Rudd
+    </Name>
+    <Ordernumber>
+    12347
+    </Ordernumber>
+    <Shipmethod>
+    801
+    </Shipmethod>
+  </Orderinfo>
+  <Orderinfo>
+    <Name>
+    John Wick
+    </Name>
+    <Ordernumber>
+    12345
+    </Ordernumber>
+    <Shipmethod>
+    822
+    </Shipmethod>
+  </Orderinfo>
 </Orders>
