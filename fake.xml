@@ -1,11 +1,11 @@
 <Orders>
-  <orderinfo>
+  <Orderinfo>
     <Name>
     Bruce Springsteen
     </Name>
-    <OrderNumber>
+    <Ordernumber>
     12345
-    </OrderNumber>
+    </Ordernumber>
     <Shipmethod>
     801
     </Shipmethod>
