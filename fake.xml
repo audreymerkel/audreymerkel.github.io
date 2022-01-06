@@ -21,15 +21,4 @@
     801
     </Shipmethod>
   </Orderinfo>
-  <Orderinfo>
-    <Name>
-    John Wick
-    </Name>
-    <Ordernumber>
-    12348
-    </Ordernumber>
-    <Shipmethod>
-    822
-    </Shipmethod>
-  </Orderinfo>
 </Orders>
