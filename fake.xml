@@ -1,24 +1,67 @@
-<Orders>
-  <Orderinfo>
-    <Name>
-    Paul Rudd
-    </Name>
-    <Ordernumber>
-    12347
-    </Ordernumber>
-    <Shipmethod>
-    801
-    </Shipmethod>
-  </Orderinfo>
-  <Orderinfo>
-    <Name>
-    Pete Davidson
-    </Name>
-    <Ordernumber>
-    12348
-    </Ordernumber>
-    <Shipmethod>
-    821
-    </Shipmethod>
-  </Orderinfo>
-</Orders>
+<?xml version="1.0" encoding="UTF-8" ?>
+<orders>
+  <data>
+    <orderData>
+      <xmldata>
+        <Orders>
+          <BillingFirstName>Jane</BillingFirstName>
+          <BillingLastName>Doe</BillingLastName>
+          <CustomerID>21848</CustomerID>
+          <IsGTSOrder>False</IsGTSOrder>
+          <OrderDate>1/7/2022 1:39:00 PM</OrderDate>
+          <OrderDetails>
+            <OrderDetailID>416218</OrderDetailID>
+            <OrderID>74850</OrderID>
+            <ProductCode>ZW-Off-White-Chunky-LB</ProductCode>
+            <ProductID>39886</ProductID>
+          </OrderDetails>
+          <OrderID>74850</OrderID>
+          <OrderStatus>Processing</OrderStatus>
+          <PaymentMethodID>28</PaymentMethodID>
+          <ShippingMethodID>892</ShippingMethodID>
+        </Orders>
+        <Orders>
+          <BillingFirstName>John</BillingFirstName>
+          <BillingLastName>Smith</BillingLastName>
+          <CustomerID>26353</CustomerID>
+          <IsGTSOrder>False</IsGTSOrder>
+          <OrderDate>1/7/2022 1:45:00 PM</OrderDate>
+          <OrderDetails>
+            <OrderDetailID>416219</OrderDetailID>
+            <OrderID>74851</OrderID>
+            <ProductCode>Tool-Swax</ProductCode>
+            <ProductID>38323</ProductID>
+          </OrderDetails>
+          <OrderDetails>
+            <OrderDetailID>416220</OrderDetailID>
+            <OrderID>74851</OrderID>
+            <ProductCode>Tool-26-Gauge</ProductCode>
+            <ProductID>39034</ProductID>
+          </OrderDetails>
+          <OrderDetails>
+            <OrderDetailID>416221</OrderDetailID>
+            <OrderID>74851</OrderID>
+            <ProductCode>Tool-Felting-Needles-0003</ProductCode>
+            <ProductID>39130</ProductID>
+          </OrderDetails>
+          <OrderDetails>
+            <OrderDetailID>416222</OrderDetailID>
+            <OrderID>74851</OrderID>
+            <ProductCode>CZ-Light-Gray</ProductCode>
+            <ProductID>39740</ProductID>
+          </OrderDetails>
+          <OrderDetails>
+            <OrderDetailID>416223</OrderDetailID>
+            <OrderID>74851</OrderID>
+            <ProductCode>CZ-Wheat</ProductCode>
+            <ProductID>39742</ProductID>
+          </OrderDetails>
+          <OrderID>74851</OrderID>
+          <OrderStatus>Processing</OrderStatus>
+          <PaymentMethodID>5</PaymentMethodID>
+          <ShippingMethodID>805</ShippingMethodID>
+        </Orders>
+      </xmldata>
+    </orderData>
+  </data>
+</orders>
