@@ -1,0 +1,26 @@
+{
+  "name": "audreymerkel.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audreymerkel/audreymerkel.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audreymerkel/audreymerkel.github.io/issues"
+  },
+  "homepage": "https://github.com/audreymerkel/audreymerkel.github.io#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.0",
+    "webpack": "^5.70.0"
+  }
+}
