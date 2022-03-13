@@ -3,13 +3,14 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
   devtool: 'source-map',
+  mode: 'production',
   entry: {
     home: './src/home'
   },
 
   output: {
     filename: '[name].bundle.js',
-    path: path.resolve('./public/dist')
+    path: path.resolve('./dist')
   },
 
   module: {
